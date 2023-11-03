@@ -25,6 +25,7 @@ header {
 
 header h1 {
     margin: 0;
+    font-size: 15px;
 }
 
 header .container{
@@ -110,7 +111,7 @@ nav ul li a:hover {
     width: calc(33.333% - 40px);
     margin-right: 20px;
     margin-bottom: 20px;
-    background-color: #f9f9f9;
+    background-color: white;
     padding: 20px;
     box-sizing: border-box;
     border: 1px solid #E2E8F0;
